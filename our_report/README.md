@@ -12,9 +12,7 @@
  
 ## **GitHub Personal Profile** 
  
-<p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p>
-<p>[Xristina](https://github.com/XristinaMavropoulou)<p> 
-<p>[Stella](https://github.com/StellaKoronaiou17050)<p>
+<p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p> <p>[Xristina](https://github.com/XristinaMavropoulou)<p> <p>[Stella](https://github.com/StellaKoronaiou17050)<p>
 
 # Introduction
 
