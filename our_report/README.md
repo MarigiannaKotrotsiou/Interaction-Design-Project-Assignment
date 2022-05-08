@@ -1,16 +1,16 @@
 # Lesson: Interaction Design
 
-###**First and Last Name** 
+### **First and Last Name** 
 <p>Μαρία Ιωάννα Κοτρότσιου<p> 
 <p>Χριστίνα Μαυροπούλου<p> 
 <p>Στέλλα Κορωναίου<p>
  
-###**University Registration Number** 
+### **University Registration Number** 
 <p>dpsd19057<p> 
 <p>dpsd19073<p>
 <p>dpsd17058<p>
  
-###**GitHub Personal Profile** <p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p><p>[Xristina](https://github.com/XristinaMavropoulou)<p> <p>[Stella](https://github.com/StellaKoronaiou17050)<p>
+### **GitHub Personal Profile** <p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p><p>[Xristina](https://github.com/XristinaMavropoulou)<p> <p>[Stella](https://github.com/StellaKoronaiou17050)<p>
 
 # Introduction
 
@@ -18,7 +18,7 @@
 
 
 # 1st Deliverable
-<p>###**1. Design Brief**<p>
+<p>### **1. Design Brief**<p>
 <p>Δημιουργία ενός συστήματος φωτισμού για υφάσματα. Μπορεί να είναι ρούχα όπως για παράδειγμα τουτού για μπαλερίνες,  αξεσουάρ όπως headpieces, κασκόλ, "κοσμίματα" (κολιέδες, σκουλαρίκια κτλ), και τα λοιπά. Μπορεί να είναι ρούχα για βραδινή έξοδο για rave parties κτλ.<p>
 <p>2. Research <p>
  <p>i. Analyse People <p>
