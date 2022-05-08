@@ -10,7 +10,8 @@
 <p>dpsd19073<p>
 <p>dpsd17058<p>
  
-## **GitHub Personal Profile** <p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p><p>[Xristina](https://github.com/XristinaMavropoulou)<p> <p>[Stella](https://github.com/StellaKoronaiou17050)<p>
+## **GitHub Personal Profile** 
+<p>[Marigianna](https://github.com/MarigiannaKotrotsiou)<p><p>[Xristina](https://github.com/XristinaMavropoulou)<p> <p>[Stella](https://github.com/StellaKoronaiou17050)<p>
 
 # Introduction
 
