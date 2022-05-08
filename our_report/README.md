@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: Μαρία Ιωάννα Κοτρότσιου, Χριστίνα Μαυροπούλου, Στέλλα Κορωναίου
-### University Registration Number: dpsd19057, dpsd19073, dpsd17058 
-### GitHub Personal Profile: https://github.com/MarigiannaKotrotsiou, https://github.com/XristinaMavropoulou, https://github.com/StellaKoronaiou17050
+### **First and Last Name** <p>Μαρία Ιωάννα Κοτρότσιου<p> <p>Χριστίνα Μαυροπούλου<p> <p>Στέλλα Κορωναίου<p>
+### **University Registration Number** <p>dpsd19057<p> <p>dpsd19073<p> <p>dpsd17058<p>
+### **GitHub Personal Profile** <p>(Marigianna) [https://github.com/MarigiannaKotrotsiou]<p> <p>(Xristina) [https://github.com/XristinaMavropoulou]<p> <p>(Stella) [https://github.com/StellaKoronaiou17050]<p>
 
 # Introduction
 
