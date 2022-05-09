@@ -55,7 +55,8 @@
 ![informationarchitecture](https://user-images.githubusercontent.com/101730581/167303992-c6dcb096-ca70-41ee-a1ca-43227474f9ff.png)
 
 ## <p>4.User Interaction <p>
- ![Interfacedesign](https://user-images.githubusercontent.com/101730581/167303997-71687166-9739-4b38-8ea0-59b95e6a13e9.png)
+ ![Interfacedesign](https://user-images.githubusercontent.com/101730581/167399749-ce56dc42-a941-4249-b9f0-ae60c8cbb765.png)
+
 
 <p>Χρήστης-Πίνακας-Arduino-Φως<p>
 <p>Ο χρήστης εντοπίζει το αντικείμενο στο χώρο που είναι τοποθετημένο. Το πλησιάζει και ακουμπάει την touch διεπαφή/ κουμπί και ταυτόχρονα ανάβει ένα led σε συγκεκριμένο σημείο της εικονογράφίσης. Αντίστοιχα βρίσκει και τις υπόλοιπες διεπαφές που ανάβουν άλλα led. Έτσι, ο χρήστης αλληλεπριδρά με το αντικείμενο και διαμορφώνει το σκηνικό που θέλει. <p>
