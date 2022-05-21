@@ -48,17 +48,18 @@
  ### <p>iv. Review needed Technologies<p>
  <p>Hardware: καμβάς με ύφασμα από πάνω, Arduino board, breadboard, led lights, touch διεπάφη/ κουμπί, καλόδια, υπολογιστής, χρώματα/ μπογιές<p> 
 <p>Software: JavaScript<p>
-  
+<p>Similar Projects/Inspo:<a href="https://handstories.typepad.com/?fbclid=IwAR3JaMVPNHasFTxXroTR3LkkRw5bZXqMC2ddlMvz21IbQtNuINpith6NHTI"> Handstories </a>, <a href="https://blog.arduino.cc/2014/02/03/an-interactive-musical-art-installation/?fbclid=IwAR2JWW1bzcagi3TylHOS8N-XM4UuSirMXygABErCrh8BCj3rXRku92rf0aY"> Interactive art </a>, <a href="https://idambrandao.wixsite.com/arduino/arte-interativa?fbclid=IwAR0RKlyoiGc2DWk6YigA0KXKoYp3jKSCbOBTg7czz7WkgK3SYpZGWA2OaYw"> Arduino Projects </a> <p> 
+ 
 # 2nd Deliverable
  
 ## <p>3.Information architecture<p>
-![informationarchitecture](https://user-images.githubusercontent.com/101730581/167303992-c6dcb096-ca70-41ee-a1ca-43227474f9ff.png)
+![informationarchitecture](Interfacedesign.png)
 
 ## <p>4.User Interaction <p>
- ![Interfacedesign](https://user-images.githubusercontent.com/101730581/167399749-ce56dc42-a941-4249-b9f0-ae60c8cbb765.png)
+ ![Interfacedesign](Interfacedesign.png)
 
 
-<p>Χρήστης-Πίνακας-Arduino-Φως<p>
+<p>Χρήστης-Πίνακας-Arduino-Φως-Ήχος<p>
 <p>Ο χρήστης εντοπίζει το αντικείμενο στο χώρο που είναι τοποθετημένο. Το πλησιάζει και ακουμπάει την touch διεπαφή/ κουμπί και ταυτόχρονα ανάβει ένα led σε συγκεκριμένο σημείο της εικονογράφίσης. Αντίστοιχα βρίσκει και τις υπόλοιπες διεπαφές που ανάβουν άλλα led. Έτσι, ο χρήστης αλληλεπριδρά με το αντικείμενο και διαμορφώνει το σκηνικό που θέλει. <p>
 
 # 3rd Deliverable 
