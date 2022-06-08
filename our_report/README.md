@@ -57,7 +57,7 @@
 # 2nd Deliverable
  
 ## <p>3.Information architecture<p>
-![informationarchitecture](Interfacedesign.png)
+![informationarchitecture](informationarchitecture.png)
 
 ## <p>4.User Interaction <p>
  ![Interfacedesign](Interfacedesign.png)
