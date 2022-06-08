@@ -16,9 +16,10 @@
 <p><a href="https://github.com/StellaKoronaiou17050"> Stella's Profile</a><p>
  
 # Introduction
-
+<p>Στο πλαίσιο του μαθήματος της Διαδραστικής Σχεδίασης, για την ομαδική μας εργασία, ασχοληθήκαμε με το Interactive Art. Χρησιμοποίησαμε Arduino Board, όμως θα μπορούσαμε να είχαμε χρησιμοποιήσει και LilyPad, αλλά το Πανεπιστήμιο δεν μπορούσε να μας το παραχωρήσει και δεν είχαμε την οικονομική ικανότητα να αγοράσουμε δικό μας.<p>
+ 
 # Summary
-
+<p>Η ιδέα μας είναι να δημιουργήσουμε έναν “πίνακα” όπου μικρά παιδιά θα αλληλεπιδρούν μαζί του έτσι ώστε να “δημιουργήσουν” ένα νέο τοπίο, με σκοπό να γνωρίσουν και μία άλλη μορφή τέχνης, συνδυάζοντας την αφή και την όραση. Το αντικείμενο μας αποτελείται από ένα καμβά, ο οποίος είναι καλυμμένος με υφάσματα, και ένα push button που ανάβει πολλά led ταυτόχρονα.<p>
 
 # 1st Deliverable
  
@@ -78,3 +79,10 @@
 
 
 # Sources
+<p><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Button</a><p>
+<p><a href="https://create.arduino.cc/projecthub/SBR/working-with-an-led-and-a-push-button-71d8c1">Push Button and Led</a><p>
+<p><a href="https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/"> Turn LED ON and OFF With Button</a><p>
+<p><a href="https://arduinogetstarted.com/faq/one-button-for-multiple-functions">One Button Multiple Functions</a><p>
+<p>Arduino Projects που κάναμε στο TinkerCad, προσπαθόντας να καταλάβουμε το Arduino UNO: <a href="https://www.tinkercad.com/things/6SANAukWtMI-cool-hango-elzing/editel">Arduino1</a> / <a href="https://www.tinkercad.com/things/bNeDqJtVItT-copy-of-first/editel">Arduino2</a> / <a href="https://www.tinkercad.com/things/kB9A8WHGCfd-copy-of-010422/editel">Arduino3</a> / <a href="https://www.tinkercad.com/things/d3l1IAmtYOi-hmanasas/editel">Arduino4</a> / <a href="https://www.tinkercad.com/things/33WjXwJZkQy-fantabulous-leelo-fyyran/editel">Arduino5</a> / <a href="https://www.tinkercad.com/things/h2IpW2ikov9-brave-tumelo-allis/editel">Arduino6</a><p>
+
+
