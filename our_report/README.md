@@ -50,7 +50,7 @@
    <p>Δημόσιοι χώροι: μουσεία για παιδιά, μουσεία/γκαλέρι τέχνης<p>
     
  ### <p>iv. Review needed Technologies<p>
- <p>Hardware: καμβάς, υφάσματα, κλοστές και βελόνες, κόλλα, Arduino board, breadboard, led lights, push button, καλόδια, resistor 220Ω και 1kΩ, υπολογιστής.<p> 
+ <p>Hardware: καμβάς, υφάσματα, κλοστές και βελόνες, κόλλα, χαρτόνια, Arduino board, breadboard, led lights, push button, καλόδια, resistor 220Ω και 1kΩ, υπολογιστής.<p> 
 <p>Software: JavaScript<p>
  <p><img src="inspo2.png" height="200" width="200">
 <p>Similar Projects/Inspo:<a href="https://handstories.typepad.com/?fbclid=IwAR3JaMVPNHasFTxXroTR3LkkRw5bZXqMC2ddlMvz21IbQtNuINpith6NHTI"> Handstories </a>, <a href="https://blog.arduino.cc/2014/02/03/an-interactive-musical-art-installation/?fbclid=IwAR2JWW1bzcagi3TylHOS8N-XM4UuSirMXygABErCrh8BCj3rXRku92rf0aY"> Interactive art </a>, <a href="https://idambrandao.wixsite.com/arduino/arte-interativa?fbclid=IwAR0RKlyoiGc2DWk6YigA0KXKoYp3jKSCbOBTg7czz7WkgK3SYpZGWA2OaYw"> Arduino Projects </a> <p> 
